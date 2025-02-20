@@ -1,11 +1,9 @@
 # MinID Product page
-
 MinID landing page.   
 Visit https://minid.no/
 
 ## Development:
-
-Requirements: [Hugo](https://gohugo.io/) 
+Requirements: [Hugo](https://gohugo.io/)
 
 1. Clone repo: 
 ```shell
