@@ -14,7 +14,7 @@ git clone https://github.com/felleslosninger/minid.digdir.no.git
 
 3. Navigate to folder and run Hugo:
 ```shell
-cd minid.digdir.no
+cd minid.no
 ```
 
 3. Install requirements
